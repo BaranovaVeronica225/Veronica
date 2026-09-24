@@ -36,7 +36,7 @@ html {
     width: 100%;
     max-width: 100%;
     overflow-x: hidden;
-    background-color: #FFFFFF;
+    background-color: pink;
   }     
     
 *{
@@ -84,7 +84,7 @@ li:hover  {
 
 #one {background-color:#FF0000;}
 #two {background-color:#302c2d;}
-#three {background-color:##FF69B4;}
+#three {background-color:green;}
 #four {background-color:#FFA07A;}
 #five {background-color:#00FFFF;}
 
@@ -275,7 +275,7 @@ li:hover  {
 
 #one {background-color:#FF0000;}
 #two {background-color:#302c2d;}
-#three {background-color:##FF69B4;}
+#three {background-color:green;}
 #four {background-color:#FFA07A;}
 #five {background-color:#00FFFF;}
 section {
