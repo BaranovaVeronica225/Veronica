@@ -15,7 +15,7 @@ html, body {
 
   position: absolute;
 
-  margin-top: -60px;
+  margin-top: 60px;
 
   overflow: auto;
 
@@ -427,7 +427,7 @@ width: 95%;
 
 }
 float: left;
- color: #C71585
+ color: #C71585;
  font-size: 84px;
 
  line-height: 64px;
