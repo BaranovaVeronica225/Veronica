@@ -15,7 +15,7 @@ html, body {
 
   position: absolute;
 
-  margin-top: -300vh;
+  margin-top: -60px;
 
   overflow: auto;
 
@@ -71,7 +71,7 @@ width: 95%;
 
   border-radius: 50%;
 
-  background-color: #f9f9f9;
+  background-color: blue;
 
   display: flex;
 
