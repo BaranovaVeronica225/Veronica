@@ -175,13 +175,13 @@ width: 95%;
 
   height: 40px;
 
-  width: 121px;
+  width: 142px;
 
   position: absolute;
 
   left: 50%;
 
-  top: 350%;
+  top: 250%;
 
   transform: translate(-50%, 50%);
 
@@ -207,7 +207,7 @@ width: 95%;
 }
 .loader {
 
-  width: 121px !important;
+  width: 144px !important;
 
 }
 
@@ -378,7 +378,7 @@ width: 95%;
 }
 .reveal {
 
-  height: 960px !important;
+  height: 700px !important;
 
 }
 #nav-container {
